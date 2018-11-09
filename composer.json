@@ -1,0 +1,15 @@
+{
+  "name": "nedoloogiy/htmlbuilder",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "nedoloogiy",
+      "email": "nedoloogiy@mail.ru"
+    }
+  ],
+  "require":{
+    "php": ">=7"
+  }
+}
