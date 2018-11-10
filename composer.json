@@ -1,7 +1,6 @@
 {
   "name": "nedoloogiy/htmlbuilder",
   "description": "description_text",
-  "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
@@ -11,5 +10,8 @@
   ],
   "require":{
     "php": ">=7"
+  },
+  "autoload":{
+    "classmap": ["src/"]
   }
 }

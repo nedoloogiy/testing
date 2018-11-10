@@ -9,7 +9,10 @@
 namespace nedoloogiy;
 
 
-class Html
+class Html implements HtmlInterface
 {
-
+    public static function init()
+    {
+        // TODO: Implement init() method.
+    }
 }
